@@ -4,3 +4,9 @@
 	url = https://github.com/egyptian-geeks/website
     ignore = all
 
+[submodule ".ruby"]
+	path = .ruby
+	url = https://github.com/minefarts/ruby-embed
+	branch = 3.2.11
+    ignore = all
+
