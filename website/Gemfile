@@ -1,8 +1,18 @@
 source 'https://rubygems.org'
 
+# Force compatible dependency layers for Ruby 2.6.6
+gem 'logger'
+gem 'concurrent-ruby', '1.3.4'
+gem 'net-imap', '< 0.3.0' 
+gem 'net-pop', '< 0.2.0'
+gem 'net-smtp', '< 0.4.0'
+
+# Windows-specific timezone resolution data source
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
 gem 'haml'
 gem 'puma', '~> 4.3'
-gem 'rails', '~> 6.0'
+gem 'rails', '~> 6.0.0'
 gem 'sass-rails', '~> 5.0'
 gem 'pg'
 gem 'uglifier', '>= 1.3.0'
