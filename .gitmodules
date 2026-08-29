@@ -10,3 +10,8 @@
 	branch = 3.2.11
     ignore = all
 
+[submodule "posts"]
+	path = posts
+	url = https://github.com/egyptian-geeks/posts
+    ignore = all
+
