@@ -1,7 +1,7 @@
 
 [submodule ".ruby"]
 	path = .ruby
-	url = https://github.com/minefarts/ruby-embed
+	url = https://github.com/MineFartsEmbed/Ruby
 	branch = 2.6.6
     ignore = all
 
@@ -12,11 +12,11 @@
 
 [submodule ".nodejs"]
 	path = .nodejs
-	url = https://github.com/MineFartS/nodejs-embed
+	url = https://github.com/MineFartsEmbed/NodeJS
     ignore = all
 
 [submodule ".msys2"]
 	path = .msys2
-	url = https://github.com/MineFartS/MSYS2/
+	url = https://github.com/MineFartsEmbed/MSYS2/
     ignore = all
 
