@@ -1,0 +1,5 @@
+= render 'shared/card' do
+  - if local_assigns.fetch :user_card, true
+    = render 'users/card', user: post.user
+  = render post
+  = render 'posts/card_footer', post: post

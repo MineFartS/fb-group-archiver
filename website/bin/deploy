@@ -1,0 +1,37 @@
+#!/usr/bin/env sh
+set -e
+
+SERVER=$1
+SERVICES=${@:2}
+
+APP=/root/projects/egygeeks
+REPO=git@github.com:egyptian-geeks/website.git
+BRANCH=master
+
+sshin() {
+    ssh -o LogLevel=QUIET -t $SERVER "cd $APP; $@"
+}
+
+echo "[*] Deleting old files"
+ssh -o LogLevel=QUIET -t $SERVER rm -rf $APP
+
+echo "[*] Clone branch"
+ssh -o LogLevel=QUIET -t $SERVER git clone --depth=1 --branch $BRANCH $REPO $APP
+
+echo "[*] Pulling new docker images"
+sshin docker-compose pull
+
+echo "[*] Building images"
+sshin docker-compose build $SERVICES
+
+echo "[*] Migrating database"
+sshin docker-compose run -T --rm web rails db:migrate db:seed
+
+echo "[*] Stop old containers"
+sshin docker-compose stop $SERVICES
+
+echo "[*] Bring up new containers"
+sshin docker-compose up -d $SERVICES
+
+echo "[*] Clean docker"
+sshin docker system prune -f

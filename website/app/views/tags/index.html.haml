@@ -1,0 +1,14 @@
+= form_tag(tags_path, method: "get", class: 'form mb-5') do
+  .field.has-addons
+    .control.is-expanded
+      = text_field_tag :keyword, params[:keyword], class: 'input', placeholder: "Search..."
+    .control
+      = submit_tag "Go", class: 'button is-primary'
+
+- max = @tags.first.posts_count.to_f
+- @tags.each do |t|
+  - font_size = ((t.posts_count/max)*5).ceil
+  = link_to t.title, t, class: :tag, style: "font-size: #{font_size}em;"
+
+- if @next_page
+  = link_to "Next page", tags_path(request.query_parameters.merge(page: @next_page)), class: 'button is-fullwidth'

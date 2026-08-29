@@ -1,0 +1,3 @@
+= render 'shared/card' do
+  = render 'users/card', user: comment.user
+  .card-content= format_message(comment.message)

@@ -1,0 +1,23 @@
+.card-footer
+  %small.card-footer-item.has-text-grey-light
+    = icon "far fa-clock"
+    %span
+      = time_ago_in_words post.created_at
+      ago
+
+.card-footer
+  .card-footer-item
+    = icon "far fa-thumbs-up"
+    %span= post.reactions_count
+
+  .card-footer-item
+    = icon "far fa-comment"
+    %span= post.comments_count
+
+  = link_to post, class: 'card-footer-item' do
+    = icon "far fa-eye"
+    %span View
+
+  = link_to post.permalink_url, class: 'card-footer-item', target: :_blank do
+    = icon "fab fa-facebook-square"
+    %span On Facebook

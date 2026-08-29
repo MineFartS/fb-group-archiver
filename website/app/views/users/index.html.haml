@@ -1,0 +1,15 @@
+= form_tag(users_path, method: "get", class: 'form mb-5') do
+  .field.has-addons
+    .control.is-expanded
+      = text_field_tag :keyword, params[:keyword], class: 'input', placeholder: "Search..."
+    .control
+      .select= select_tag :order_by , options_for_select(@order_options, params[:order_by])
+    .control
+      = submit_tag "Go", class: 'button is-primary'
+
+.clearfix
+
+= render partial: 'users/user', collection: @users
+
+- if @next_page
+  = link_to "Next page", users_path(request.query_parameters.merge(page: @next_page)), class: 'button is-fullwidth'

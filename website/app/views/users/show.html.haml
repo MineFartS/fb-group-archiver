@@ -1,0 +1,5 @@
+= render 'users/user', user: @user
+= render partial: 'posts/post', collection: @posts, locals: {user_card: false}
+
+- if @next_page
+  = link_to "Next page", user_path(page: @next_page), class: 'button is-fullwidth'

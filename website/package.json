@@ -1,0 +1,8 @@
+{
+  "name": "website",
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "0.9.1"
+  }
+}

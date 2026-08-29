@@ -1,0 +1,21 @@
+default: &default
+  adapter: postgresql
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  encoding: utf8
+  username: <%= ENV.fetch('POSTGRES_USER', 'postgres') %>
+  password: <%= ENV['POSTGRES_PASSWORD'] %>
+  host: <%= ENV.fetch('POSTGRES_HOST', 'localhost') %>
+  port: <%= ENV.fetch('POSTGRES_PORT', 5432) %>
+  timeout: 5000
+
+development:
+  <<: *default
+  database: egygeeks_development
+
+test:
+  <<: *default
+  database: egygeeks_test
+
+production:
+  <<: *default
+  database: <%= ENV.fetch('POSTGRES_DB', 'egygeeks_production') %>

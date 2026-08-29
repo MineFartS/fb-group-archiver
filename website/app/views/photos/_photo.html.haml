@@ -1,0 +1,5 @@
+.card-content
+  = link_to photo.name, photo.link
+  = format_message(photo.message)
+  = link_to photo.link do
+    = image_tag photo.picture, class: 'card-img-top'

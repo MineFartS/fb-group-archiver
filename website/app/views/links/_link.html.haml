@@ -1,0 +1,8 @@
+.card-content.media
+  - if link.picture?
+    .media-left
+      .figure.image.is-128x128
+        = image_tag link.picture
+  .media-content
+    = format_message(link.message)
+    = link_to link.name, link.link
