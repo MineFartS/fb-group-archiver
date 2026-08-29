@@ -15,3 +15,8 @@
 	url = https://github.com/egyptian-geeks/posts
     ignore = all
 
+[submodule ".nodejs"]
+	path = .nodejs
+	url = https://github.com/MineFartS/nodejs-embed
+    ignore = all
+
