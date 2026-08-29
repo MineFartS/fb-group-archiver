@@ -1,9 +1,4 @@
 
-[submodule "website"]
-	path = website
-	url = https://github.com/egyptian-geeks/website
-    ignore = all
-
 [submodule ".ruby"]
 	path = .ruby
 	url = https://github.com/minefarts/ruby-embed
