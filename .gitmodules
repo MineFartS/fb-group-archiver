@@ -7,7 +7,7 @@
 [submodule ".ruby"]
 	path = .ruby
 	url = https://github.com/minefarts/ruby-embed
-	branch = 3.2.11
+	branch = 2.6.6
     ignore = all
 
 [submodule "posts"]
