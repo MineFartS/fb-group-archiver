@@ -1,3 +1,11 @@
+git.exe submodule update --init --recursive --remote
+
+function Invoke-RubyScript ([string]$script, [Parameter(ValueFromRemainingArguments)]$cmdargs) {
+    Start-Process `
+        -FilePath (Get-Item "$PSScriptRoot\.ruby\bin\$script.*" | Select-Object -First 1).FullName `
+        -ArgumentList $cmdargs `
+        -Wait -NoNewWindow
+}
 
 New-Item `
     -Path "$PSScriptRoot\.ruby\msys64" `
