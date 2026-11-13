@@ -1,0 +1,29 @@
+---
+message: http://nanobar.micronube.com/
+link: http://nanobar.micronube.com/
+from:
+  name: Adham EL-Deeb
+  id: '1748637668514027'
+type: link
+created_time: '2014-03-24T17:45:00+0000'
+updated_time: '2014-03-24T17:45:00+0000'
+name: nanobar.js
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/719648354741542/
+id: '172338516139198_719648354741542'
+reactions:
+  data:
+  - id: '627907956'
+    name: Emad Elsaid
+    type: LIKE
+  paging:
+    cursors:
+      before: TmpJM09UQTNPVFUyT2pFek9UVTJPRGcwTXpnNk1qVTBNRGsyTVRZAeE13PT0ZD
+      after: TmpJM09UQTNPVFUyT2pFek9UVTJPRGcwTXpnNk1qVTBNRGsyTVRZAeE13PT0ZD
+attachments:
+  data:
+  - description: nanobar.js - Very very lightweight progress bars
+    target:
+      url: http://l.facebook.com/l.php?u=http%3A%2F%2Fnanobar.micronube.com%2F&h=ATMqIWV4KAGuQa6uDIKLPhoGBLa_ifStPemF7a4gCS2EO-ldw1mUMO9pASnPSOQgqIAP7BIqQkmvD-1Hf6BbK4rLdo_uNwMQ3QFnIoGQDi7SF1VrbJke&s=1
+    title: nanobar.js
+    type: share
+    url: http://l.facebook.com/l.php?u=http%3A%2F%2Fnanobar.micronube.com%2F&h=ATMqIWV4KAGuQa6uDIKLPhoGBLa_ifStPemF7a4gCS2EO-ldw1mUMO9pASnPSOQgqIAP7BIqQkmvD-1Hf6BbK4rLdo_uNwMQ3QFnIoGQDi7SF1VrbJke&s=1

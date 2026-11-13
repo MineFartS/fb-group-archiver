@@ -1,0 +1,33 @@
+---
+link: https://www.facebook.com/qawithmark/videos/828790510512059/
+from:
+  name: Meligy
+  id: '10155880569740170'
+type: video
+picture: https://scontent.xx.fbcdn.net/v/t15.0-10/s130x130/10679065_828797140511396_828790510512059_37471_302_b.jpg?_nc_cat=0&oh=03e698c8b30c62c959e78a20d4565a26&oe=5B641047
+created_time: '2014-11-08T10:33:16+0000'
+updated_time: '2014-11-08T10:33:16+0000'
+name: Q&A with Mark
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/843072559065787/
+id: '172338516139198_843072559065787'
+reactions:
+  data:
+  - id: '1707137612683071'
+    name: Ahmed Saleh
+    type: LIKE
+  paging:
+    cursors:
+      before: TVRBd01EQXhOakExTkRZAeE1EVXdPakUwTVRVME5EZAzVOemM2TWpVME1EazJNVFl4TXc9PQZDZD
+      after: TVRBd01EQXhOakExTkRZAeE1EVXdPakUwTVRVME5EZAzVOemM2TWpVME1EazJNVFl4TXc9PQZDZD
+attachments:
+  data:
+  - media:
+      image:
+        height: 405
+        src: https://scontent.xx.fbcdn.net/v/t15.0-10/s720x720/10679065_828797140511396_828790510512059_37471_302_b.jpg?_nc_cat=0&oh=e209094d8a4b1f690c7af3435f5a88b4&oe=5B2B3877
+        width: 720
+    target:
+      id: '828790510512059'
+      url: https://www.facebook.com/qawithmark/videos/828790510512059/
+    type: video_inline
+    url: https://www.facebook.com/qawithmark/videos/828790510512059/

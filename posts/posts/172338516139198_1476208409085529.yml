@@ -1,0 +1,31 @@
+---
+message: Who to follow on quora ? =D
+from:
+  name: Abdelhameed Emad
+  id: '1275835755893843'
+type: status
+created_time: '2017-05-07T16:10:56+0000'
+updated_time: '2017-05-07T19:02:10+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1476208409085529/
+id: '172338516139198_1476208409085529'
+reactions:
+  data:
+  - id: '1167702619999771'
+    name: Ahmed Omar
+    type: LIKE
+  paging:
+    cursors:
+      before: TVRBd01EQXlPREF4TXpNM05qSXdPakUwT1RReE56a3hNRFE2TWpVME1EazJNVFl4TXc9PQZDZD
+      after: TVRBd01EQXlPREF4TXpNM05qSXdPakUwT1RReE56a3hNRFE2TWpVME1EazJNVFl4TXc9PQZDZD
+comments:
+  data:
+  - created_time: '2017-05-07T19:02:07+0000'
+    from:
+      name: Ali Khaled
+      id: '10215202719881855'
+    message: The only one i know is Abdelrahman Hamdy
+    id: '1476326295740407'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFEzTmpNeU5qSTVOVGMwTURRd056b3hORGswTVRnek56STMZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFEzTmpNeU5qSTVOVGMwTURRd056b3hORGswTVRnek56STMZD

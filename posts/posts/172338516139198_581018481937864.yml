@@ -1,0 +1,34 @@
+---
+from:
+  name: Ahmed Adel
+  id: '10157228231404129'
+type: status
+created_time: '2013-06-17T17:56:14+0000'
+updated_time: '2013-06-17T17:56:14+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/581018481937864/
+id: '172338516139198_581018481937864'
+attachments:
+  data:
+  - subattachments:
+      data:
+      - media:
+          image:
+            height: 135
+            src: https://scontent.xx.fbcdn.net/v/t1.0-9/303910_10151994214884129_1524939055_n.jpg?_nc_cat=0&oh=73ae934bd234362d4398493e44578a34&oe=5B2D7E10
+            width: 315
+        target:
+          id: '10151994214884129'
+          url: https://www.facebook.com/photo.php?fbid=10151994214884129&set=gm.581018481937864&type=3
+        type: photo
+        url: https://www.facebook.com/photo.php?fbid=10151994214884129&set=gm.581018481937864&type=3
+      - media:
+          image:
+            height: 132
+            src: https://scontent.xx.fbcdn.net/v/t1.0-9/1017409_10151994214499129_1306633154_n.jpg?_nc_cat=0&oh=815237006796ba6af8ca5664e0c82cb5&oe=5B6BFD96
+            width: 340
+        target:
+          id: '10151994214499129'
+          url: https://www.facebook.com/photo.php?fbid=10151994214499129&set=gm.581018481937864&type=3
+        type: photo
+        url: https://www.facebook.com/photo.php?fbid=10151994214499129&set=gm.581018481937864&type=3
+    type: album

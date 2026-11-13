@@ -1,0 +1,76 @@
+---
+message: |-
+  ال CIA تستطيع اختراق جميع اصدارات iOS وقراءة رسائل وصوتيات WhatsApp و Signal قبل تشفيرها
+
+  ال CIA تستخدم Atlassian confluence في إدارة مستندات مشاريعها التقنية
+
+  احدى الوثائق المسربة من الفريق التقني في CIA
+from:
+  name: Yosef Amar
+  id: '10155097484932190'
+type: status
+created_time: '2017-03-07T22:58:05+0000'
+updated_time: '2017-03-07T22:58:07+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/1412337622139275/
+id: '172338516139198_1412337622139275'
+reactions:
+  data:
+  - id: '10159926834570593'
+    name: Fizeau Basha
+    type: LIKE
+  - id: '10155334181686275'
+    name: Wael Elbeshbeshy
+    type: LIKE
+  - id: '1606653222755447'
+    name: Ahmad Ali
+    type: LIKE
+  - id: '2412107349015066'
+    name: Eslam Osama
+    type: LIKE
+  - id: '10215836374411013'
+    name: محمد عمران
+    type: LIKE
+  - id: '10155206310513093'
+    name: Ibraheem Osama
+    type: LIKE
+  - id: '984525055036301'
+    name: Emad G Kamel
+    type: LIKE
+  paging:
+    cursors:
+      before: TmpZAME5EYzFOVGt5T2pFME9Ea3dOekE1TURRNk1qVTBNRGsyTVRZAeE13PT0ZD
+      after: TVRBd01EQTBNelkwTkRjME9EUXdPakUwT0RnNU1qYzFOakk2TWpVME1EazJNVFl4TXc9PQZDZD
+comments:
+  data:
+  - created_time: '2017-03-07T23:30:22+0000'
+    from:
+      name: Yosef Amar
+      id: '10155097484932190'
+    message: ال CIA اثبتت انها تستطيع التجسس على أكثر من 3 مليار انسان في أي وقت عن
+      طريق اختراق هاتفه أو اختراق التليفيزيون أو أي جهاز ذكي متصل بانترنت
+    id: '1412357618803942'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFF4TWpNMU56WXhPRGd3TXprME1qb3hORGc0T1RJNU5ESXoZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVFF4TWpNMU56WXhPRGd3TXprME1qb3hORGc0T1RJNU5ESXoZD
+attachments:
+  data:
+  - media:
+      image:
+        height: 48
+        src: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/5Fb1JQeQv9a.png
+        width: 48
+    subattachments:
+      data:
+      - target:
+          id: '1412337622139275'
+          url: https://www.facebook.com/groups/egyptian.geeks/1412337622139275/
+        title: Photos from Yosef Amar's post in Egyptian Geeks
+        type: album
+        url: https://www.facebook.com/groups/egyptian.geeks/1412337622139275/
+    target:
+      id: '1651534371817048'
+      url: https://l.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Ffile%2FiOS%2520Exploits%2520-%2520iOS%2520-%2520EDG%2520Confluence.pdf%3Ftoken%3DAWxtqxnaqc29UqZp_J8m4gg8xaQBEEF75n-A6rapXlxO3MBEhIagifmVen5p7RXMwQqUv7ho6CwPIPpp9kJK-Z6-98t0-91_-IijR8z9RaWKHdPAwOnBn3m-7k1YbxRokugG9PgBKpRbZCPZvtmnp-yGlS-UGzBEjCUSYHr7K9S0Hwjnycv622E5_8MUUZG1fpGQIJUCIM-wfFvSV3PdjZ7C&h=ATMZT_UAubtPD7lXRF4QqROOrtmscA8xxtQp5r-7tHzSn75a0gAz4P4kJ1R-siVRt3v162ii-iQwmQ8xi2_NcPP5xb3LuRkFwFxDI08mKcy_hLW3BVfp&s=1
+    title: iOS Exploits - iOS - EDG Confluence.pdf · version 1
+    type: file_upload
+    url: https://l.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Ffile%2FiOS%2520Exploits%2520-%2520iOS%2520-%2520EDG%2520Confluence.pdf%3Ftoken%3DAWxtqxnaqc29UqZp_J8m4gg8xaQBEEF75n-A6rapXlxO3MBEhIagifmVen5p7RXMwQqUv7ho6CwPIPpp9kJK-Z6-98t0-91_-IijR8z9RaWKHdPAwOnBn3m-7k1YbxRokugG9PgBKpRbZCPZvtmnp-yGlS-UGzBEjCUSYHr7K9S0Hwjnycv622E5_8MUUZG1fpGQIJUCIM-wfFvSV3PdjZ7C&h=ATMZT_UAubtPD7lXRF4QqROOrtmscA8xxtQp5r-7tHzSn75a0gAz4P4kJ1R-siVRt3v162ii-iQwmQ8xi2_NcPP5xb3LuRkFwFxDI08mKcy_hLW3BVfp&s=1

@@ -1,0 +1,26 @@
+---
+message: |-
+  Hello everyone, we've started a new book club and ideas community in Alexandria. Come join us!
+  https://www.facebook.com/groups/1725652597707804/
+from:
+  name: Abdelrahman Mustafa
+  id: '10160087319910372'
+type: status
+created_time: '2016-07-05T14:27:38+0000'
+updated_time: '2016-07-05T14:27:38+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1175659339140439/
+id: '172338516139198_1175659339140439'
+attachments:
+  data:
+  - description: 150 members
+    media:
+      image:
+        height: 315
+        src: https://scontent.xx.fbcdn.net/v/t1.0-9/c268.0.315.315/13567368_10157241935735372_700749833424025600_n.jpg?_nc_cat=0&oh=a782bf79a4e2a29d153fdaa214ae80e3&oe=5B39C57D
+        width: 315
+    target:
+      id: '1725652597707804'
+      url: https://www.facebook.com/groups/1725652597707804/
+    title: The Alexandria Circle
+    type: group
+    url: https://www.facebook.com/groups/1725652597707804/

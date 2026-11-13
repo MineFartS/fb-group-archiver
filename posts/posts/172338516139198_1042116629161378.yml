@@ -1,0 +1,67 @@
+---
+message: what the error in linking?
+link: https://www.facebook.com/photo.php?fbid=10204878504433372&set=gm.1042116629161378&type=3
+from:
+  name: Mohab Mohamed
+  id: '10210346747776038'
+type: photo
+picture: https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/12308382_10204878504433372_795527675924368715_n.jpg?_nc_cat=0&oh=a6a2804129c2f53f737aedd08d8ecad0&oe=5B32D79F
+created_time: '2015-12-08T04:05:12+0000'
+updated_time: '2015-12-08T04:47:22+0000'
+name: Photos from Mohab Mohamed's post
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1042116629161378/
+id: '172338516139198_1042116629161378'
+comments:
+  data:
+  - created_time: '2015-12-08T04:41:59+0000'
+    from:
+      name: Khaled M. Diab
+      id: '10215626626127168'
+    message: This is not a linking error, this is a building error. Make sure that
+      the include directory is set right in the "Compile" tab (not "Linker") in the
+      "Search directory" tab.
+    id: '1042125509160490'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVEEwTWpFeU5UVXdPVEUyTURRNU1Eb3hORFE1TlRRNU56RTUZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVEEwTWpFeU5UVXdPVEUyTURRNU1Eb3hORFE1TlRRNU56RTUZD
+attachments:
+  data:
+  - subattachments:
+      data:
+      - media:
+          image:
+            height: 404
+            src: https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/12339480_10204878504433372_795527675924368715_o.jpg?_nc_cat=0&oh=9351371c3759efbabb2a7ccfae2398ec&oe=5B3521D0
+            width: 720
+        target:
+          id: '10204878504433372'
+          url: https://www.facebook.com/photo.php?fbid=10204878504433372&set=gm.1042116629161378&type=3
+        type: photo
+        url: https://www.facebook.com/photo.php?fbid=10204878504433372&set=gm.1042116629161378&type=3
+      - media:
+          image:
+            height: 404
+            src: https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/12339219_10204878504393371_5191468996043912310_o.jpg?_nc_cat=0&oh=a84192f974b318094cbb5c7f2e9c2c3f&oe=5B684854
+            width: 720
+        target:
+          id: '10204878504393371'
+          url: https://www.facebook.com/photo.php?fbid=10204878504393371&set=gm.1042116629161378&type=3
+        type: photo
+        url: https://www.facebook.com/photo.php?fbid=10204878504393371&set=gm.1042116629161378&type=3
+      - media:
+          image:
+            height: 404
+            src: https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/12309654_10204878504593376_2485676600927270771_o.jpg?_nc_cat=0&oh=91edce5b46b30d4509006dc666b291e9&oe=5B31CBA1
+            width: 720
+        target:
+          id: '10204878504593376'
+          url: https://www.facebook.com/photo.php?fbid=10204878504593376&set=gm.1042116629161378&type=3
+        type: photo
+        url: https://www.facebook.com/photo.php?fbid=10204878504593376&set=gm.1042116629161378&type=3
+    target:
+      id: '1042116629161378'
+      url: https://www.facebook.com/media/set/?set=pcb.1042116629161378&type=1
+    title: Photos from Mohab Mohamed's post
+    type: album
+    url: https://www.facebook.com/media/set/?set=pcb.1042116629161378&type=1

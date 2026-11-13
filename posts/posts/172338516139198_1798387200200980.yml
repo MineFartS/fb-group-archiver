@@ -1,0 +1,143 @@
+---
+message: 'كده نخلينا في كوتلين ولا ايه؟ :)
+
+'
+link: http://money.cnn.com/2018/03/27/news/companies/google-oracle-case/index.html
+from:
+  name: Mokhtar Ebrahim
+  id: '10155287610712742'
+type: link
+picture: https://external.xx.fbcdn.net/safe_image.php?d=AQC23YkuJjDwZsTG&w=130&h=130&url=http%3A%2F%2Fi2.cdn.turner.com%2Fmoney%2Fdam%2Fassets%2F180327174008-google-oracle-copyright-780x439.jpg&cfs=1&_nc_hash=AQCQMaECzGC0JFD1
+created_time: '2018-03-28T21:00:49+0000'
+updated_time: '2018-03-31T06:49:29+0000'
+name: Google loses Android battle and could owe Oracle billions of dollars
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1798387200200980/
+shares:
+  count: 8
+id: '172338516139198_1798387200200980'
+reactions:
+  data:
+  - id: '1706690556076756'
+    name: Mahmoud Mohyeldin
+    type: LIKE
+  - id: '961194774028820'
+    name: Mohamed Abobakr
+    type: LIKE
+  - id: '10155121705651135'
+    name: Ahmed Abul Khair
+    type: LIKE
+  - id: '964117473738747'
+    name: Shady Shalaby
+    type: LIKE
+  - id: '10215105150532048'
+    name: David Magdy Nawar
+    type: WOW
+  - id: '1792396197485237'
+    name: Mohamed Elhout
+    type: HAHA
+  - id: '10208412458988343'
+    name: Omar Beshary
+    type: WOW
+  - id: '1603918496360868'
+    name: Mahmoud Jaber Wahrani
+    type: LIKE
+  - id: '1941442462840331'
+    name: Apd Ulrhman II
+    type: HAHA
+  - id: '10155678609406281'
+    name: Hossam Ahmed Mohammed
+    type: HAHA
+  - id: '725324041000037'
+    name: Heba Ghonaemy
+    type: LIKE
+  - id: '10160127160800691'
+    name: Ramy Fouad
+    type: WOW
+  - id: '10155898279795619'
+    name: Hassan Sultan
+    type: LIKE
+  - id: '10155299113287066'
+    name: يامن شاهين
+    type: LIKE
+  - id: '10214953106239047'
+    name: Muhammad Faraj
+    type: LIKE
+  - id: '10160136355320107'
+    name: Noha Abdel-Tawab
+    type: LIKE
+  - id: '973044862844261'
+    name: Ahmed Milad
+    type: HAHA
+  - id: '10214861141222529'
+    name: Abdelrady Fcis
+    type: LIKE
+  - id: '2031254110420139'
+    name: Ahmed Adel
+    type: LIKE
+  - id: '1999765416908747'
+    name: Ahmed Khalifa
+    type: LIKE
+  - id: '178572869541245'
+    name: Morsi Mohammed
+    type: WOW
+  - id: '10155407807273562'
+    name: Ehab Elshater
+    type: LIKE
+  - id: '10155056867911922'
+    name: Ahmed Sadek Mohamed Tawfik
+    type: WOW
+  - id: '10156068631599812'
+    name: Ahmed Abo Elleef
+    type: WOW
+  paging:
+    cursors:
+      before: TVRBd01EQXlNRGMwT0RVNE1qQTVPakUxTWpJME9URXpORGM2TWpVME1EazJNVFl4TXc9PQZDZD
+      after: TmpJNE1qSTBPREV4T2pFMU1qSXlOekE1TWprNk56ZAzROalE0TURNM09URXpNekV5
+comments:
+  data:
+  - created_time: '2018-03-28T22:18:33+0000'
+    from:
+      name: محمد علاء الدين
+      id: '1824520801181678'
+    message: "وهي كانت بالكيف ،، فين الدعم علي لغة الناس لسه بتهته فال syntax بتعها
+      ،، وعلفكرة فيه ناس تانية بتقولك ال dart وناس تالتة تقولك ال cross بتاع البايثون
+      فاللي هو ايه زي منت عايز تقول قول \U0001F600\U0001F600"
+    id: '1798586470181053'
+  - created_time: '2018-03-29T04:56:22+0000'
+    from:
+      name: Ahmed Alkhatib
+      id: '10209260304299285'
+    message: long live java
+    id: '1798849463488087'
+  - created_time: '2018-03-29T08:53:44+0000'
+    from:
+      name: Hisham Fangary
+      id: '10156660518155839'
+    message: |-
+      Oracle has become this company that makes money by just collecting patents and searching for companies to sue. This case is particularly bizarre given that Java is free and open source.
+      They haven't creatively added anything of value to the IT world in almost 20 years.
+    id: '1798990976807269'
+  - created_time: '2018-03-31T06:49:26+0000'
+    from:
+      name: Yasser Ahmed
+      id: '1018840718254559'
+    message: لا كده نروح لزامارين بقى =D
+    id: '1801214819918218'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGM1T0RVNE5qUTNNREU0TVRBMU16b3hOVEl5TWpjMU5URTAZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGd3TVRJeE5EZA3hPVGt4T0RJeE9Eb3hOVEl5TkRjNE9UWTIZD
+attachments:
+  data:
+  - description: Google just lost a major copyright case that could cost it billions
+      and change how tech companies approach software development.
+    media:
+      image:
+        height: 439
+        src: https://external.xx.fbcdn.net/safe_image.php?d=AQCRnASXFOc59Epr&w=720&h=720&url=http%3A%2F%2Fi2.cdn.turner.com%2Fmoney%2Fdam%2Fassets%2F180327174008-google-oracle-copyright-780x439.jpg&cfs=1&_nc_hash=AQAq5BFsTCr_rN72
+        width: 439
+    target:
+      url: http://l.facebook.com/l.php?u=http%3A%2F%2Fmoney.cnn.com%2F2018%2F03%2F27%2Fnews%2Fcompanies%2Fgoogle-oracle-case%2Findex.html&h=ATMep1xqLTkUMwco2v6659yjdjX-Bmemcbhoa_kjWAYbpjAk9TCzKARofA2vm49OE0T9_Yx6BWZbtd7AM23jUh-ydXiIaYjd6QeDt71Io2gQj1rfpQuZ&s=1
+    title: Google loses Android battle and could owe Oracle billions of dollars
+    type: share
+    url: http://l.facebook.com/l.php?u=http%3A%2F%2Fmoney.cnn.com%2F2018%2F03%2F27%2Fnews%2Fcompanies%2Fgoogle-oracle-case%2Findex.html&h=ATMep1xqLTkUMwco2v6659yjdjX-Bmemcbhoa_kjWAYbpjAk9TCzKARofA2vm49OE0T9_Yx6BWZbtd7AM23jUh-ydXiIaYjd6QeDt71Io2gQj1rfpQuZ&s=1

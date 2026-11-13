@@ -1,0 +1,118 @@
+---
+from:
+  name: Mõ Şalah
+  id: '1794171493949584'
+type: status
+created_time: '2018-03-20T19:18:51+0000'
+updated_time: '2018-03-22T12:34:15+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1790004514372582/
+shares:
+  count: 25
+id: '172338516139198_1790004514372582'
+reactions:
+  data:
+  - id: '832658286916992'
+    name: Mohamed Farghly
+    type: LIKE
+  - id: '10214400225536793'
+    name: Assem Makhyon
+    type: LIKE
+  - id: '2000743989953188'
+    name: Mahmoud Samy
+    type: LIKE
+  - id: '10213461163996393'
+    name: Ahmed Samir
+    type: LIKE
+  - id: '1718936021499099'
+    name: Ibrahim Hamdy
+    type: LIKE
+  - id: '10155856743191578'
+    name: Mo Hemmat
+    type: LIKE
+  - id: '2026464494309931'
+    name: Belal
+    type: LIKE
+  - id: '10211176320743477'
+    name: Islam Wahid
+    type: LIKE
+  - id: '10159911272580223'
+    name: Ibrahim Adel
+    type: LIKE
+  - id: '2012728262101039'
+    name: Ahmed Alsharkawy
+    type: LIKE
+  - id: '1478028288973287'
+    name: Abdelrahman Samir
+    type: LIKE
+  - id: '1505531509576338'
+    name: Isra Ahmed
+    type: LIKE
+  - id: '10154949886067133'
+    name: Taha Salah
+    type: LIKE
+  - id: '1824520801181678'
+    name: محمد علاء الدين
+    type: LOVE
+  - id: '707597859445635'
+    name: Mohamed Hussien Mahrous
+    type: LIKE
+  - id: '1754195911542041'
+    name: Taha A. Saleh
+    type: LIKE
+  - id: '10155926704141777'
+    name: Ahmed Abdelaziz
+    type: LIKE
+  - id: '10214533240314715'
+    name: Doaa Ali
+    type: LIKE
+  - id: '1806285449669873'
+    name: Medo Gamey
+    type: LIKE
+  paging:
+    cursors:
+      before: TVRBd01EQTFNVGcwT0RVd01qWXlPakUxTWpFNU9ESXhNRFk2TWpVME1EazJNVFl4TXc9PQZDZD
+      after: TVRBd01EQTROalV6TURVNU56YzVPakUxTWpFMU56VXlOalU2TWpVME1EazJNVFl4TXc9PQZDZD
+comments:
+  data:
+  - created_time: '2018-03-21T03:10:15+0000'
+    from:
+      name: Ahmed EL Zayat
+      id: '2020725194609907'
+    message: Hitham Ramzy
+    id: '1790380687668298'
+  - created_time: '2018-03-21T09:21:53+0000'
+    from:
+      name: Ali M. Ismail
+      id: '2038705159743591'
+    message: Hayder J Kadhim
+    id: '1790630420976658'
+  - created_time: '2018-03-21T12:14:06+0000'
+    from:
+      name: Ibrahim Hamdy
+      id: '1718936021499099'
+    message: Hossam Magdy
+    id: '1790751707631196'
+  - created_time: '2018-03-22T12:34:11+0000'
+    from:
+      name: Sayed A Omar
+      id: '1454070801386468'
+    message: Abdo El Sadory
+    id: '1791797937526573'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGM1TURNNE1EWTROelkyT0RJNU9Eb3hOVEl4TmpBeE9ERTIZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGM1TVRjNU56a3pOelV5TmpVM016b3hOVEl4TnpJeU1EVXkZD
+attachments:
+  data:
+  - description: 'computer-science - :mortar_board: Path to a free self-taught education
+      in Computer Science!'
+    media:
+      image:
+        height: 400
+        src: https://external.xx.fbcdn.net/safe_image.php?d=AQB8JmRQfwUNZWM8&w=720&h=720&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14957346%3Fs%3D400%26v%3D4&cfs=1&_nc_hash=AQDlYGBTpYKz9od1
+        width: 400
+    target:
+      url: https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fossu%2Fcomputer-science&h=ATOf-waBM6aw7XLd4N2TQPpQ-U5NXGMiagC_nhFgx9o74MgqQ9060XkxN-n0vMsod2URykig6NQ4iLU1z-HToSRirhvXcPwLUuvbGdrJlAE-Nm9xHILZ&s=1
+    title: ossu/computer-science
+    type: share
+    url: https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fossu%2Fcomputer-science&h=ATOf-waBM6aw7XLd4N2TQPpQ-U5NXGMiagC_nhFgx9o74MgqQ9060XkxN-n0vMsod2URykig6NQ4iLU1z-HToSRirhvXcPwLUuvbGdrJlAE-Nm9xHILZ&s=1

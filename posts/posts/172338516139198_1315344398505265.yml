@@ -1,0 +1,22 @@
+---
+message: Is there a free API for real-time currency conversion?
+from:
+  name: Iman Mohammed
+  id: '557835137928906'
+type: status
+created_time: '2016-12-06T10:17:02+0000'
+updated_time: '2016-12-06T10:47:58+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1315344398505265/
+id: '172338516139198_1315344398505265'
+comments:
+  data:
+  - created_time: '2016-12-06T10:29:14+0000'
+    from:
+      name: Kareem Kashwaa
+      id: '10155729844185546'
+    message: I used yahoo finance API in one of our old projects, it works just fine.
+    id: '1315372681835770'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVE14TlRNM01qWTRNVGd6TlRjM01Eb3hORGd4TURJd01UVTEZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVE14TlRNM01qWTRNVGd6TlRjM01Eb3hORGd4TURJd01UVTEZD

@@ -1,0 +1,264 @@
+---
+message: هو لما بتقرا كتاب ازاي بتعرف لو تسمع فعلا للكاتب ده ولا لأ، وهل كلامه مناسب
+  لدلوقتي ولا outdated، خصوصا ان فيه كتاب مالهمش كود تشوفه، يعني فيه كاتبه فى الروبي
+  كوميونيتي مشهورة جدا اسمها sandy matz لكن لما شوفت اكونت جيت هب بتاعها مالقيتش مشروع
+  اوبن سورس اقدر اشوف هي فعلا بتكتب كود ازاي، فإزاي اقدر اثق فى كلامها؟ يعني ايه اللى
+  يضمنلي ان الكود ستايل اللى بتتكلم فيه مش over engineering مثلا وهيلبسني فى الحيط
+  بعد مدة؟
+from:
+  name: Emad Elsaid
+  id: '627907956'
+type: status
+created_time: '2018-03-04T19:42:00+0000'
+updated_time: '2018-03-08T12:39:02+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1772163796156654/
+id: '172338516139198_1772163796156654'
+reactions:
+  data:
+  - id: '1864838400255982'
+    name: Abdelwahab Mahmoud
+    type: LIKE
+  - id: '871016873079772'
+    name: Marwan Ahmed
+    type: LIKE
+  - id: '10155807929225700'
+    name: Mohamed Samir Mohamed
+    type: LIKE
+  - id: '10155903911855943'
+    name: Ahmed Soliman
+    type: LIKE
+  - id: '1547297148718242'
+    name: Sherif Abdel-Naby
+    type: LIKE
+  - id: '1964650613774365'
+    name: Galal Aly
+    type: LIKE
+  - id: '1763959737010749'
+    name: Ahmed Mahmoud
+    type: LIKE
+  - id: '1979904248899879'
+    name: Mohamed GadAllah
+    type: LIKE
+  - id: '1730787373611486'
+    name: Ammar Yasser
+    type: LIKE
+  - id: '1151809561622555'
+    name: Ali ElSheikh
+    type: LIKE
+  - id: '2050677301856794'
+    name: Nour Badr
+    type: LIKE
+  - id: '10213056573263683'
+    name: Ahmed Mabrook
+    type: LIKE
+  - id: '2048561448492111'
+    name: Hassan Medhat
+    type: LIKE
+  - id: '10214471954062071'
+    name: Mohammad Aboelnour
+    type: LIKE
+  - id: '10155113612632882'
+    name: Ahmed Magdy
+    type: LIKE
+  - id: '1466247800164499'
+    name: Mosaab Ahmed
+    type: LIKE
+  - id: '1604652206289988'
+    name: Salma Abdelhady
+    type: LIKE
+  - id: '2057830097766561'
+    name: Ahmed Abd Elwaness
+    type: LIKE
+  - id: '1958972070797083'
+    name: Mina William
+    type: LIKE
+  - id: '744364165648487'
+    name: Ahmed Elsayed Shahawi
+    type: LIKE
+  - id: '10156649659196002'
+    name: Muhammad Saleh
+    type: LIKE
+  - id: '790501411145334'
+    name: Abuzeid Ibrahim
+    type: LIKE
+  - id: '1978009525783037'
+    name: Ahmed Magdy
+    type: LIKE
+  - id: '1999765416908747'
+    name: Ahmed Khalifa
+    type: LIKE
+  paging:
+    cursors:
+      before: TVRBd01EQXhPRGsxTWpFME5Ea3lPakUxTWpBME5URTVNRGM2TWpVME1EazJNVFl4TXc9PQZDZD
+      after: TVRBd01EQTJNalU1TWpNNE9EVXlPakUxTWpBeE9USTFOVEU2TWpVME1EazJNVFl4TXc9PQZDZD
+comments:
+  data:
+  - created_time: '2018-03-04T19:44:20+0000'
+    from:
+      name: Mohammed Esmail
+      id: '2100667896823180'
+    message: العبرة فى المجال ده بالتطبيق مش كلام وخلاص وانت نافسك كاتبها
+    id: '1772165096156524'
+  - created_time: '2018-03-04T19:45:41+0000'
+    from:
+      name: Muhammad Saleh
+      id: '10156649659196002'
+    message: "اعتقد بروفايل الكاتب بيفرق\nيعني لو حد كان شغال علي مشاريع كبيره مثلا
+      او شركات كبيره \nويفضل لو مشاريع فعلا معروفه وناجحه ساعتها الي حد ما ممكن اثق
+      في كلامه او كلامها"
+    id: '1772165946156439'
+  - created_time: '2018-03-04T19:47:51+0000'
+    from:
+      name: Mohamed Barakat
+      id: '1502899966473971'
+    message: |-
+      طيب  بما اني شوفة كلمة روبي :D
+      انا عايز ابدآ Ruby صراحة و مش عارف اروح فين و لا اجي منين :"D
+    id: '1772167489489618'
+  - created_time: '2018-03-04T20:13:35+0000'
+    from:
+      name: Mariam Maarouf
+      id: '10155779091916638'
+    message: |-
+      I have 2 things I want to say that don't necessarily answer your question:
+
+      1. Writing open source code is neither here nor there regarding the credibility of a software engineer, or better yet, a technical author. Having what you deem as "good" contributions does not make you more qualified, and having less good contributions does not make you less qualified. The book could be a fluke in either direction (good or bad) from an otherwise different pattern. Also, books are generally edited, revised, and researched way more than github commits.
+
+      2. If you've decided you can judge her general ability to code from her github and somehow apply that to her book, why can't you judge the book's contents right away?
+
+      Anyway, books are reviewed, and the internet is brutal, so I personally take it as a good sign when something is widely accepted in a specialized/niche community.
+
+      Also, books, in general, are not the be all and end all of anything, publishing is very flawed, and nothing is to be 100% trusted.
+
+      I guess those were 4 things.
+    id: '1772183929487974'
+  - created_time: '2018-03-04T20:34:51+0000'
+    from:
+      name: Hesham White
+      id: '10214038659628102'
+    message: انا تقريبا بتحط في نفس الموقف دة يعني لسه ملقتش حل اكيد لكن انا عادة
+      بعتمد علي ال reviews بتاعت الكتاب لكن بعد كدة مع الوقت وبكثرة القراية لنفس الموضوع
+      من كذا مكان هتبدا تكون رأي لنفسك وتعرف الراجل دة مثلا outdated او بي overengineer
+      الحاجة او حتي بي over simplify وفي ال realcase scenarios الدنيا مبتمشيش كدة
+    id: '1772197419486625'
+  - created_time: '2018-03-04T20:42:33+0000'
+    from:
+      name: Diyaa Mahmoud
+      id: '1559170364118742'
+    message: "قرايه الكتب عامله زي تجميع البيانات العشوائيه في الاحصاء هتفضل تجمع
+      معلومات من الشرق والغرب واللي ممكن تكون متضاربه او حتي بقت قديمه ومع الوقت هتبدا
+      تصفي المعلومات وتوصل لنقطه التوازن او standard مقبول تقدر تحكم بيه بعد كده يمكن
+      لانه بيجيب نتايج في الشغل او اي سبب اخر، اختيار كتاب معنين تقرلهم هما بس هيوصلك
+      لتحيز يمنعك من الاستفاده من المعلومات التانيه حتي لو كانت outdated زي ما بتقول
+      خصوصا انه في مجالنا مفيش صح وغلط مطلق وبيبقي حسب متطلبات المشروع \n\nبالبنسبه
+      للحاله بتاعت الكاتبه اللي بتقول عليها فاتذكر قريت عل quora  حاله شبيه انه دكتور
+      متخصص في ال computer science مؤلف كتب برمجة ومع ذلك فشل في مسابقه برمجه\nهل
+      ده يعيبه في شئ ؟ فلا مش يعيبه... مسابقات البرمجه بتعتمد عل نوع معين من الخبره
+      الفنيه في الغالب بتتجاب بالتجربه والخطأ لكن الدكتور ده عنده خبره علميه مختلفه
+      عامله بالظبط زي مثلا اي ست بيت بتعرف تطبخ حلو لكن مهما عرفت وصفات مسمهاش شيف
+      والشيف حتي وهو مبيعرفش يعمل نفس وصفات اكل البيت فاسمه شيف ... نوع الخبره مختلف
+      تماما"
+    id: '1772203192819381'
+  - created_time: '2018-03-04T21:32:15+0000'
+    from:
+      name: Muhammed Sabry
+      id: '1668113069920698'
+    message: "ممممم \nممكن نقول ان المخرج بيعرف يقولك ازاي تمثل صح بس مش شرط يكون
+      بيعرف يمثل هو شخصيا ؟ \nxD"
+    id: '1772235389482828'
+  - created_time: '2018-03-04T22:06:36+0000'
+    from:
+      name: Ahmed M. Araby
+      id: '10155547863649263'
+    message: "اعتقد انت الفيصل في الموضوع ياعماد \nالكاتب غالبا بيتكلم من من خبرته
+      وال cases اللي عدت عليه وعليك انت انك تفكر في ال case اللي قدامك هل فعلا فعلا
+      الكتاب بيحلها , طيب دلوقتي , طيب قدام وفي الاخر تقرر \nبس القاعده عموما ان ال
+      cases بتتشابه لكن مش بتتطابق"
+    id: '1772260099480357'
+  - created_time: '2018-03-05T00:24:00+0000'
+    from:
+      name: Ahmed Mabrook
+      id: '10213056573263683'
+    message: "I face the same problem and here's my conclusion (till now)\nNothing
+      is pure right or wrong. Unfortunately a source of knowledge in general (a book
+      in this case) can't be judged till you read &apply in real work. \nSo as time
+      is limited and we can't read and apply everything you got to be very picky and
+      wise with reviews about that source (real ones) read about the author/s and
+      their background and what they do in depth ..investigate it by all available
+      means before you invest time and effort in it."
+    id: '1772337236139310'
+  - created_time: '2018-03-05T00:31:54+0000'
+    from:
+      name: Amr Abdelwahab
+      id: '1567739586596515'
+    message: التشكيك في ساندي ماتز ده شتيمة و الله حرام عليك يعني
+    id: '1772341352805565'
+  - created_time: '2018-03-05T05:32:38+0000'
+    from:
+      name: أبو مالك القصير
+      id: '535005166886357'
+    message: محمد عيسي
+    id: '1772535976119436'
+  - created_time: '2018-03-05T06:32:14+0000'
+    from:
+      name: Alaa Ezzat
+      id: '10156074051141565'
+    message: "غالبا بتبقي دماغك الحكم الاول و الاخير\n\nانا عندي قناعه مثلا ان في
+      السوفتوير مفيس حاجه اسمها \"الصح\" ، بس فيه \"صح\" و \"غلط\"\n\nباختصار مفيش
+      طريقه واحده سليمه عشان تعمل الحاجه ، فكل كاتب مهما كان تقيل في مجالنا بيكتب
+      نتاج تجربته هو ، الباترنز اللي ريحته و اللي مشت الدنيا معاه بتبدا تتحول من صح
+      ل\"الصح\" بالنسباله و ممكن متبقاش انسب حاجه ليك\n\nو طبعا لو بتقري في حاجه بتحسها
+      بتتمرجح و لسه مستقرتش علي هي عاوزه تعمل ايه زي بعض الحاجات في مايكروسوفت فانتا
+      بتحكم الكتاب outdated ولا لا من الversion اللي بيشتغل عليها الكاتب \U0001F602"
+    id: '1772582259448141'
+  - created_time: '2018-03-05T08:49:30+0000'
+    from:
+      name: Amr Abdelwahab
+      id: '1567739586596515'
+    message: |-
+      عموما يا سيدي كتب ال tech مش كتب علمية في الاغلب هي كتب تقدر تعاملها معاملة كتب التاريخ
+
+      بني ادمين بيتكلموا عن خبراتهم في مشاكل في مجالنا و بيعرضوا حلولهم و انت تقدر تشوف لو محتاج حاجه شبيه لحل مشكلتك ولا لا
+    id: '1772670329439334'
+  - created_time: '2018-03-05T08:51:14+0000'
+    from:
+      name: Amr Abdelwahab
+      id: '1567739586596515'
+    message: بشكل عام لان صناعة السوفتوير صناعه لسه صغيرة جدا في السن فهو في المطلق
+      كل approach هتاخده بيكون ليه tradeoffs قراية الكتب بتعرفك على عدد من approaches
+      و انت تنقي الي يناسبك وقت ما يناسبك
+    id: '1772671312772569'
+  - created_time: '2018-03-05T08:54:54+0000'
+    from:
+      name: Alaa Ezzat
+      id: '10156074051141565'
+    message: ده حقيقي فعلا فرق الاف السنين بين السوفتوير كعلم و بين توبيكس تانيه زي
+      العماره مثلا ، طبيعي ان يكون اختلافات كبيره بين المدارس و الmind sets اللي في
+      المجال
+    id: '1772673369439030'
+  - created_time: '2018-03-05T14:22:19+0000'
+    from:
+      name: أسامة يعقوب
+      id: '346030139207588'
+    message: "الشباب ما شاء الله قالوا كلام زى الفل و انا هضيف شوية حاجات بسيطة :
+      \nاولا الممارسة لا تتعارض مع ال over engineering اوى ... فيه ناس مبتعرفش تفكر
+      بشكل بسيط ... فمهما خبرته زادت بيفضل برضه يلجأ لحلول معقدة و يحط حاجات فى اعتباره
+      اكتر من اللى تفكيره بسيط ... صحيح الخبرة بتهذب طريقة تفكيرة شوية بس برضه تلاقيه
+      دائما رايح ناحية الصعب\nثانيا فيه حاجات بتبان من اولها أنها شكلها كده صح او
+      شكلها كده غلط -نسبيا طبعا- .... زى مثلا واحد حب يحل مشكلة معينة عمل tight coupling
+      بين 2components ... او استخدم حاجة فى غير محلها ...  عاجل له مشكلة بس هتعمل
+      مشكلة تانية - حتى لو كان الصح أنه فى النهاية فى حالته يطبق. الحل ده- ... و العكس
+      صحيح\nثالثا .. كتر القراية و الممارسة هتزود السينس اللى يخلينا نحكم على اللى
+      بنقرأ و هل مناسب المشكلة بتاعتنا ولا لا\nدا رأيى. و الله اعلم"
+    id: '1772920529414314'
+  - created_time: '2018-03-08T12:38:58+0000'
+    from:
+      name: Ahmed Refaey
+      id: '1808892215797147'
+    message: يفضل كتاب فيه case study و كود شكله وحش و يشرح هو وحش ازاى و ايه عيوبه
+      ....و ازاى تبتدى تحسن فى طريقة كتابة الكود عشان يطلع كويس  بالكود بردوا
+    id: '1776004835772550'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMzTWpFMk5UQTVOakUxTmpVeU5Eb3hOVEl3TVRreU5qWXgZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMzTmpBd05EZA3pOVGMzTWpVMU1Eb3hOVEl3TlRFeU56TTUZD

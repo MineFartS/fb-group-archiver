@@ -1,0 +1,27 @@
+---
+message: "Mozilla Egypt Tour - Menofia ;) \nDon't miss the Chance ..."
+link: https://www.facebook.com/events/642542982518842/
+from:
+  name: Mohammed El-Barbeer
+  id: '764118007128689'
+type: event
+picture: https://scontent.xx.fbcdn.net/v/t1.0-0/c108.0.130.130/p130x130/11082589_901707793184738_3601611403913253663_n.png?_nc_cat=0&oh=7a8cf10eaf8abcc9f36333ad98568385&oe=5B2AA644
+created_time: '2015-03-24T18:15:08+0000'
+updated_time: '2015-03-24T18:15:08+0000'
+name: Mozilla Egypt Tour - Menofia
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/914401065266269/
+id: '172338516139198_914401065266269'
+attachments:
+  data:
+  - description: 540 people went
+    media:
+      image:
+        height: 355
+        src: https://scontent.xx.fbcdn.net/v/t1.0-9/c295.0.355.355/11082589_901707793184738_3601611403913253663_n.png?_nc_cat=0&oh=f9c9617892b9a9448c8c37a16590d816&oe=5B273FCE
+        width: 355
+    target:
+      id: '642542982518842'
+      url: https://www.facebook.com/events/642542982518842/
+    title: Mozilla Egypt Tour - Menofia
+    type: event
+    url: https://www.facebook.com/events/642542982518842/

@@ -1,0 +1,111 @@
+---
+message: 'Spot the difference: One is a fake domain utilizing Russian letters (fully
+  legit to register)! How would you stop your users falling for this?'
+link: https://twitter.com/vladwolfenstein/status/977224057853825026
+from:
+  name: Marwan Abdel Moneim
+  id: '408695269572490'
+type: link
+picture: https://external.xx.fbcdn.net/safe_image.php?d=AQBrUvcEqJfDu9mP&w=130&h=130&url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDY_MAsOVMAEp8CW.jpg%3Alarge&cfs=1&_nc_hash=AQCcmiRcjT790FSd
+created_time: '2018-03-24T18:08:09+0000'
+updated_time: '2018-03-25T19:36:07+0000'
+name: vladimir wolstencroft on Twitter
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1793923307314036/
+shares:
+  count: 1
+id: '172338516139198_1793923307314036'
+reactions:
+  data:
+  - id: '10156179627726738'
+    name: Hany Said
+    type: LIKE
+  - id: '10215352706918859'
+    name: Mohamed Ahmed Zidan
+    type: LIKE
+  - id: '10156161428368658'
+    name: Amr Mekkawy
+    type: LIKE
+  - id: '1208358265962928'
+    name: Muhammad Tarek
+    type: LIKE
+  - id: '10215232240456289'
+    name: Ahmed Saber
+    type: LIKE
+  - id: '10155019881421751'
+    name: Khalid Abdallah
+    type: LIKE
+  - id: '714462715416491'
+    name: Emy Ahmad
+    type: LIKE
+  - id: '10215515935116102'
+    name: Agk TF
+    type: LIKE
+  - id: '1965446180193017'
+    name: Amr Bassiuony
+    type: LIKE
+  - id: '10156165643313420'
+    name: Tony Raoul Iscaros
+    type: LIKE
+  - id: '1588787661215871'
+    name: Ibrahim Eid
+    type: LIKE
+  paging:
+    cursors:
+      before: TlRFek56WXhOek0zT2pFMU1qSXdPVEUwTURFNk1qVTBNRGsyTVRZAeE13PT0ZD
+      after: TVRBd01EQXlOVE01TlRjNU9UZAzNPakUxTWpFNU1UVTVPRFU2TWpVME1EazJNVFl4TXc9PQZDZD
+comments:
+  data:
+  - created_time: '2018-03-24T18:11:50+0000'
+    from:
+      name: Bdr Mohamed
+      id: '2015246105157800'
+    message: I guess the only way is to check the ascii codes.
+    id: '1794159807290386'
+  - created_time: '2018-03-24T19:50:09+0000'
+    from:
+      name: Mohamed Hamza
+      id: '1780939041979216'
+    message: The SSL certificate ofc.. just use a paid one with your domain on it.
+    id: '1794234863949547'
+  - created_time: '2018-03-24T20:05:02+0000'
+    from:
+      name: Mohammad Allam
+      id: '10157198755818902'
+    message: |-
+      Punycode encoding should have already solved this problem
+      I think new versions of most of modern browsers encode domain names to ascii using punycode before displaying them to the user
+      You can try it yourself and check your browser behavior
+    id: '1794244443948589'
+  - created_time: '2018-03-25T05:15:32+0000'
+    from:
+      name: Ahmed Atef
+      id: '10156122235026834'
+    message: this was and old issue related to some letters and it a human eye can't
+      spot the difference, it's browsers issue, i think it was reported months ago
+    id: '1794617610577939'
+  - created_time: '2018-03-25T19:13:59+0000'
+    from:
+      name: Ahmed Shabana Al-Saigh
+      id: '10154916632286595'
+    message: "الموضوع ده خطر جدا. مش معقول نقعد نعمل Unicode to hex \nونقعد نراجع
+      كل حرف"
+    id: '1795232263849807'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGM1TkRFMU9UZA3dOekk1TURNNE5qb3hOVEl4T1RFMU1URXgZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGM1TlRJek1qSTJNemcwT1Rnd056b3hOVEl5TURBMU1qTTUZD
+attachments:
+  data:
+  - description: "“Spot the difference: One is a fake domain utilizing Russian letters
+      (fully legit to register)! How would you stop your users falling for this? (really
+      asking for ideas)”"
+    media:
+      image:
+        height: 302
+        src: https://external.xx.fbcdn.net/safe_image.php?d=AQDzSkQ_lGZ3FwIl&w=720&h=720&url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDY_MAsOVMAEp8CW.jpg%3Alarge&cfs=1&_nc_hash=AQA-Z3RNbHWqoPNa
+        width: 302
+    target:
+      url: https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fvladwolfenstein%2Fstatus%2F977224057853825026&h=ATPhgnK-Z1znhbMCwMjCDbozg2fSrtEkUKVnOF0-ngm5gJVmK5mz9-CsK12svz1nM4N4IGwrgwMMDinLFvoXjq6K2YkO8U6M0TUzm_8UlLdhOgzJwUt6&s=1
+    title: vladimir wolstencroft on Twitter
+    type: share
+    url: https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fvladwolfenstein%2Fstatus%2F977224057853825026&h=ATPhgnK-Z1znhbMCwMjCDbozg2fSrtEkUKVnOF0-ngm5gJVmK5mz9-CsK12svz1nM4N4IGwrgwMMDinLFvoXjq6K2YkO8U6M0TUzm_8UlLdhOgzJwUt6&s=1

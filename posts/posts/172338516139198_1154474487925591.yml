@@ -1,0 +1,71 @@
+---
+message: Yesterday I met with Framer team in Berlin. They had an awesome workshop
+  showing some of the newest features that they have been working on and it's awesome!
+  if you don't know what framer is, it's an amazing prototyping tool based on JS and
+  CoffeeScript. check it out here http://framerjs.com/
+link: https://www.facebook.com/photo.php?fbid=10210118378095514&set=gm.1154474487925591&type=3
+from:
+  name: Mohammed Morsi
+  id: '10216137430288057'
+type: photo
+picture: https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13321836_10210118378095514_458122678862958046_n.jpg?_nc_cat=0&oh=593e79a0b227bc8409570216141805fd&oe=5B34C7EF
+created_time: '2016-06-02T07:23:23+0000'
+updated_time: '2016-06-02T07:23:23+0000'
+name: Photos from Mohammed Morsi's post
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1154474487925591/
+id: '172338516139198_1154474487925591'
+reactions:
+  data:
+  - id: '10211072612477910'
+    name: Mohamed Hafez Abdallah
+    type: LIKE
+  - id: '10213118809797201'
+    name: Muhammad El-Hennawy
+    type: LIKE
+  - id: '1739934556028600'
+    name: Ali Shaltout
+    type: LIKE
+  paging:
+    cursors:
+      before: TVRRek16YzNNRE00TkRveE5EWTBPRGMzTkRFeE9qSTFOREE1TmpFMk1UTT0ZD
+      after: TVRBd01EQXdNell5TVRjd016QTJPakUwTmpRNE5UY3hNVEk2TWpVME1EazJNVFl4TXc9PQZDZD
+attachments:
+  data:
+  - subattachments:
+      data:
+      - media:
+          image:
+            height: 540
+            src: https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/13308560_10210118378095514_458122678862958046_o.jpg?_nc_cat=0&oh=494f21fe74a0eb03122eaaeddb23183b&oe=5B6C48C4
+            width: 720
+        target:
+          id: '10210118378095514'
+          url: https://www.facebook.com/photo.php?fbid=10210118378095514&set=gm.1154474487925591&type=3
+        type: photo
+        url: https://www.facebook.com/photo.php?fbid=10210118378095514&set=gm.1154474487925591&type=3
+      - media:
+          image:
+            height: 540
+            src: https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/13350388_10210118378175516_4276532373274305317_o.jpg?_nc_cat=0&oh=2be97aea2c3b6cc2c106a96c1d71dbcc&oe=5B74D03B
+            width: 720
+        target:
+          id: '10210118378175516'
+          url: https://www.facebook.com/photo.php?fbid=10210118378175516&set=gm.1154474487925591&type=3
+        type: photo
+        url: https://www.facebook.com/photo.php?fbid=10210118378175516&set=gm.1154474487925591&type=3
+      - media:
+          image:
+            height: 540
+            src: https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/13320387_10210118378135515_4779182852048294683_o.jpg?_nc_cat=0&oh=2a3e0f1ccc6ccd91a805c19f21666223&oe=5B33F157
+            width: 720
+        target:
+          id: '10210118378135515'
+          url: https://www.facebook.com/photo.php?fbid=10210118378135515&set=gm.1154474487925591&type=3
+        type: photo
+        url: https://www.facebook.com/photo.php?fbid=10210118378135515&set=gm.1154474487925591&type=3
+    target:
+      id: '1154474487925591'
+      url: https://www.facebook.com/media/set/?set=pcb.1154474487925591&type=1
+    title: Photos from Mohammed Morsi's post
+    type: album
+    url: https://www.facebook.com/media/set/?set=pcb.1154474487925591&type=1

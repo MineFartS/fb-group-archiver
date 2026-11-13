@@ -1,0 +1,45 @@
+---
+message: Maged Eladawy
+from:
+  name: Hany Essam
+  id: '1666352796756592'
+type: status
+created_time: '2014-08-24T20:40:23+0000'
+updated_time: '2014-08-25T01:39:00+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/803782249661485/
+id: '172338516139198_803782249661485'
+comments:
+  data:
+  - created_time: '2014-08-25T01:39:00+0000'
+    from:
+      name: Ahmad Alfy
+      id: '10154904189965670'
+    message: |-
+      Please provide a description for for what you are attaching in the future ... If this is meant to be shared with the person you tagged and not the rest of the group members then don't post it.
+      Thanks
+    id: '803868632986180'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZAPREF6T0RZANE5qTXlPVGcyTVRnd09qRTBNRGc1TXpBM05EQT0ZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZAPREF6T0RZANE5qTXlPVGcyTVRnd09qRTBNRGc1TXpBM05EQT0ZD
+attachments:
+  data:
+  - media:
+      image:
+        height: 48
+        src: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/5Fb1JQeQv9a.png
+        width: 48
+    subattachments:
+      data:
+      - target:
+          id: '803782249661485'
+          url: https://www.facebook.com/groups/egyptian.geeks/803782249661485/
+        title: Photos from Hany Essam's post in Egyptian Geeks
+        type: album
+        url: https://www.facebook.com/groups/egyptian.geeks/803782249661485/
+    target:
+      id: '1493528177557478'
+      url: https://l.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Ffile%2FApp%2520Idea%2520.pdf%3Ftoken%3DAWzlO_ZS5lAX2o9v0BAn2QfamrocgtT6q1d26pUSjD-u8RE5KPfvNot5A4ajX8vBkVA8HQQGypF4dVXR0QP7TdhMUXo1X_B3jOYLba-yEBFb1Kl35LhpeX-YBOyBX-s0m8vGpoz7K922E4kvnFe9qqZkCJIK1GkcoamZ4u_8D3UhQ1oc8PPPsN1kFYvFelN-6voeAGWLlx8P6FGK0tcyaLW6&h=ATM4AdmrrPHOFRmSy7BDEREBktv6-9aLRT3qMwXzyRulJcBPMpuf1TQ7nz6G7pwLMsFqQh1dS79FZ0U_qngJQ6e1gK_Kky6nk1EPtfx3Pgo5mDxg2Rv6&s=1
+    title: App Idea .pdf · version 1
+    type: file_upload
+    url: https://l.facebook.com/l.php?u=https%3A%2F%2Flookaside.fbsbx.com%2Ffile%2FApp%2520Idea%2520.pdf%3Ftoken%3DAWzlO_ZS5lAX2o9v0BAn2QfamrocgtT6q1d26pUSjD-u8RE5KPfvNot5A4ajX8vBkVA8HQQGypF4dVXR0QP7TdhMUXo1X_B3jOYLba-yEBFb1Kl35LhpeX-YBOyBX-s0m8vGpoz7K922E4kvnFe9qqZkCJIK1GkcoamZ4u_8D3UhQ1oc8PPPsN1kFYvFelN-6voeAGWLlx8P6FGK0tcyaLW6&h=ATM4AdmrrPHOFRmSy7BDEREBktv6-9aLRT3qMwXzyRulJcBPMpuf1TQ7nz6G7pwLMsFqQh1dS79FZ0U_qngJQ6e1gK_Kky6nk1EPtfx3Pgo5mDxg2Rv6&s=1

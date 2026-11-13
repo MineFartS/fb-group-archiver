@@ -5,11 +5,6 @@
 	branch = 2.6.6
     ignore = all
 
-[submodule "posts"]
-	path = posts
-	url = https://github.com/egyptian-geeks/posts
-    ignore = all
-
 [submodule ".nodejs"]
 	path = .nodejs
 	url = https://github.com/MineFartsEmbed/NodeJS

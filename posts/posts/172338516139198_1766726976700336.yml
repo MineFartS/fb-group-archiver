@@ -1,0 +1,136 @@
+---
+message: "Distributed Systems\nلو حد مهتم \nhttp://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html\n\nhttps://landing.google.com/sre/book/chapters/introduction.html"
+link: http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html
+from:
+  name: Muhammad Ahmed Fares
+  id: '934408920094293'
+type: link
+picture: https://external.xx.fbcdn.net/safe_image.php?d=AQAZMfEjNhIy3qHy&w=130&h=130&url=http%3A%2F%2Fwww.hpcs.cs.tsukuba.ac.jp%2F%7Etatebe%2Flecture%2Fh23%2Fdsys%2Fdsd-tutorial_files%2Frpcpix.jpg&cfs=1&_nc_hash=AQANoZHKpP1kMCQn
+created_time: '2018-02-27T18:53:23+0000'
+updated_time: '2018-02-28T08:50:36+0000'
+name: Introduction to Distributed System Design - Google Code University - Google
+  Code
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1766726976700336/
+shares:
+  count: 6
+id: '172338516139198_1766726976700336'
+reactions:
+  data:
+  - id: '10215352706918859'
+    name: Mohamed Ahmed Zidan
+    type: LIKE
+  - id: '335464610283657'
+    name: Ahmed Soliman
+    type: LIKE
+  - id: '1791113027859333'
+    name: Ali Dabour
+    type: LIKE
+  - id: '1809013739171097'
+    name: Ahmed Ashraf
+    type: LIKE
+  - id: '10155318238153927'
+    name: Ahmed Nasr
+    type: LIKE
+  - id: '871016873079772'
+    name: Marwan Ahmed
+    type: LIKE
+  - id: '1466247800164499'
+    name: Mosaab Ahmed
+    type: LIKE
+  - id: '10156325646928623'
+    name: Ahmed AMaksoud
+    type: LIKE
+  - id: '181682482588996'
+    name: Ahmad Hegazy
+    type: LIKE
+  - id: '10155134229340373'
+    name: Ahmed Hamouda
+    type: LIKE
+  - id: '2089769777911117'
+    name: Ahmed Shaaban Mohamed
+    type: LIKE
+  - id: '1979848165376268'
+    name: مصطفى يحيي
+    type: LIKE
+  - id: '576878139333370'
+    name: Ahmad ElBatanouni
+    type: LIKE
+  - id: '902324959942757'
+    name: Eslam Soliman
+    type: LIKE
+  - id: '715868928622225'
+    name: Israa El-Tobgy
+    type: LIKE
+  - id: '780207808835710'
+    name: Mohamed Ali
+    type: LIKE
+  - id: '2128735550486765'
+    name: Eslam Karim
+    type: LIKE
+  - id: '10156071955196730'
+    name: Omar Hossam Ahmed
+    type: LIKE
+  paging:
+    cursors:
+      before: TVRRM01UWTNPRFV4TXpveE5URTVPVGc0TlRJek9qSTFOREE1TmpFMk1UTT0ZD
+      after: TlRZAME5qSXhOekk1T2pFMU1UazNOVGMzT1RnNk1qVTBNRGsyTVRZAeE13PT0ZD
+comments:
+  data:
+  - created_time: '2018-02-27T18:55:00+0000'
+    from:
+      name: Muhammad Ahmed Fares
+      id: '934408920094293'
+    message: https://medium.com/netflix-techblog/updates-on-netflixs-container-management-platform-a91738360bd8
+    id: '1766790580027309'
+  - created_time: '2018-02-27T18:55:42+0000'
+    from:
+      name: Muhammad Ahmed Fares
+      id: '934408920094293'
+    message: https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39?source=collection_home---4------1----------------
+    id: '1766791473360553'
+  - created_time: '2018-02-27T18:55:58+0000'
+    from:
+      name: Muhammad Ahmed Fares
+      id: '934408920094293'
+    message: https://medium.com/netflix-techblog/distributed-time-travel-for-feature-generation-389cccdd3907?source=placement_card_footer_grid---------0-45
+    id: '1766791750027192'
+  - created_time: '2018-02-27T19:00:06+0000'
+    from:
+      name: Muhammad Ahmed Fares
+      id: '934408920094293'
+    message: https://eng.uber.com/new-rider-app/
+    id: '1766794823360218'
+  - created_time: '2018-02-27T19:00:23+0000'
+    from:
+      name: Muhammad Ahmed Fares
+      id: '934408920094293'
+    message: https://eng.uber.com/india-payments/
+    id: '1766795156693518'
+  - created_time: '2018-02-28T08:50:34+0000'
+    from:
+      name: Ahmed Shaaban Mohamed
+      id: '2089769777911117'
+    message: |-
+      if you are interested you can check this repo out.
+      https://github.com/ty4z2008/Qix/blob/master/ds.md
+    id: '1767357619970605'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMyTmpjNU1EVTRNREF5TnpNd09Ub3hOVEU1TnpVM056QXgZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMyTnpNMU56WXhPVGszTURZAd05Ub3hOVEU1T0RBM09ETTEZD
+attachments:
+  data:
+  - description: This tutorial covers the basics of distributed systems design. The
+      pre-requisites are significant programming experience with a language such as
+      C++ or Java, a basic understanding of networking, and data structures & algorithms.
+    media:
+      image:
+        height: 256
+        src: https://external.xx.fbcdn.net/safe_image.php?d=AQAgV8MtsP_VskAD&w=720&h=720&url=http%3A%2F%2Fwww.hpcs.cs.tsukuba.ac.jp%2F%7Etatebe%2Flecture%2Fh23%2Fdsys%2Fdsd-tutorial_files%2Frpcpix.jpg&cfs=1&_nc_hash=AQDkuWJzgyBy_c2U
+        width: 256
+    target:
+      url: http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.hpcs.cs.tsukuba.ac.jp%2F%7Etatebe%2Flecture%2Fh23%2Fdsys%2Fdsd-tutorial.html&h=ATPOJdUtKw3mFu8zJWZGTjwfZ_T0nJs-Q_BxIbbL6FRsG2tAkt3PapII34q9YaTs6hpf8aVDAHRYneaYdhjUnR9AlMDgtD1EczMRJPhx7EItqIdmv-MW&s=1
+    title: Introduction to Distributed System Design - Google Code University - Google
+      Code
+    type: share
+    url: http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.hpcs.cs.tsukuba.ac.jp%2F%7Etatebe%2Flecture%2Fh23%2Fdsys%2Fdsd-tutorial.html&h=ATPOJdUtKw3mFu8zJWZGTjwfZ_T0nJs-Q_BxIbbL6FRsG2tAkt3PapII34q9YaTs6hpf8aVDAHRYneaYdhjUnR9AlMDgtD1EczMRJPhx7EItqIdmv-MW&s=1

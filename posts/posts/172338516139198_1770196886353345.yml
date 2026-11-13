@@ -1,0 +1,55 @@
+---
+message: شباب انا بحاول اربط postgresql موجوده على heroku مع الـ flask app بتاعى بس
+  مش عارف بالظبط ازاى اضيف الـ URI بتاعها للـ DATABASE_URL عندى فى الابلكيشن ... اى
+  مساعده ازاى اربط الاتنين ببعض اكون مشكور
+link: https://www.facebook.com/photo.php?fbid=960105404136843&set=gm.1770196886353345&type=3
+from:
+  name: Mohamed Nabil
+  id: '941919879288729'
+type: photo
+picture: https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/28577407_960105404136843_7221640548657949987_n.jpg?_nc_cat=0&oh=e5e428f336194fb6a058dea98ec46ed0&oe=5B2E5C91
+created_time: '2018-03-02T22:56:02+0000'
+updated_time: '2018-03-02T23:14:20+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1770196886353345/
+id: '172338516139198_1770196886353345'
+reactions:
+  data:
+  - id: '535005166886357'
+    name: أبو مالك القصير
+    type: LIKE
+  - id: '934408920094293'
+    name: Muhammad Ahmed Fares
+    type: LIKE
+  paging:
+    cursors:
+      before: TVRBd01ERXhNekEyTXpVNE5UTXpPakUxTWpBd016UTNNVEE2TWpVME1EazJNVFl4TXc9PQZDZD
+      after: TVRBd01EQTFOelUxT0RBME16VTJPakUxTWpBd016RTNNalU2TWpVME1EazJNVFl4TXc9PQZDZD
+comments:
+  data:
+  - created_time: '2018-03-02T23:00:39+0000'
+    from:
+      name: Maged Ahmed Rifaat
+      id: '1828211913919222'
+    message: |-
+      هو أنا مليش في الكلام دة بس من منظره كدة شبه الid بتاع google maps اللي كان في mashup فا جرب في الconsole
+      export DATABASE_URL=......
+    id: '1770202963019404'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMzTURJd01qazJNekF4T1RRd05Eb3hOVEl3TURNeE5qTTUZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMzTURJd01qazJNekF4T1RRd05Eb3hOVEl3TURNeE5qTTUZD
+attachments:
+  data:
+  - description: شباب انا بحاول اربط postgresql موجوده على heroku مع الـ flask app
+      بتاعى بس مش عارف بالظبط ازاى اضيف الـ URI بتاعها للـ DATABASE_URL عندى فى الابلكيشن
+      ... اى مساعده ازاى اربط الاتنين ببعض اكون مشكور
+    media:
+      image:
+        height: 512
+        src: https://scontent.xx.fbcdn.net/v/t1.0-9/28577407_960105404136843_7221640548657949987_n.jpg?_nc_cat=0&oh=a2c3d26a3a86e091f34a4c5319762cfb&oe=5B75010C
+        width: 548
+    target:
+      id: '960105404136843'
+      url: https://www.facebook.com/photo.php?fbid=960105404136843&set=gm.1770196886353345&type=3
+    type: photo
+    url: https://www.facebook.com/photo.php?fbid=960105404136843&set=gm.1770196886353345&type=3

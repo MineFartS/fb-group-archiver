@@ -1,0 +1,22 @@
+---
+from:
+  name: Mohamed Alaa El Din
+  id: '1573619512716214'
+type: status
+created_time: '2011-09-19T15:04:48+0000'
+updated_time: '2011-09-19T15:04:48+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/258707937502255/
+id: '172338516139198_258707937502255'
+attachments:
+  data:
+  - media:
+      image:
+        height: 315
+        src: https://scontent.xx.fbcdn.net/v/t1.0-9/c268.0.315.315/10525769_654985121246329_4630703972173120010_n.jpg?_nc_cat=0&oh=cd2869794e337d94e70fc359fa875124&oe=5B6AD060
+        width: 315
+    target:
+      id: '172338516139198'
+      url: https://www.facebook.com/groups/egyptian.geeks/
+    title: Egyptian Geeks
+    type: avatar
+    url: https://www.facebook.com/groups/egyptian.geeks/

@@ -1,0 +1,199 @@
+---
+message: "Hello Geeks \U0001F590\U0001F3FB\U0001F590\U0001F3FB\nNowadays most of the
+  mobile apps are integrating with the most famous social media platforms (Facebook,
+  Instagram, Twitter, Google Plus and LinkedIn). For the developer, it’s going to
+  be a hassle to communicate with all of these platforms. So, I made an android library
+  that makes this for you, with only one line of code, you can integrate with the
+  most famous social media platform that are mentioned above.\nIf you liked the idea,
+  star and share the library with the world :)\nand also any contributions are more
+  than welcomed :D"
+from:
+  name: Ahmed Adel
+  id: '10155945688506276'
+type: status
+created_time: '2018-02-22T21:02:42+0000'
+updated_time: '2018-02-24T12:53:53+0000'
+permalink_url: https://www.facebook.com/groups/egyptian.geeks/permalink/1761705850535782/
+shares:
+  count: 2
+id: '172338516139198_1761705850535782'
+reactions:
+  data:
+  - id: '570702219954843'
+    name: Mohamed Abdel Sattar
+    type: LIKE
+  - id: '10215371820308664'
+    name: Ahmed Adel
+    type: LIKE
+  - id: '150528545529121'
+    name: Ayman Elafifi
+    type: LIKE
+  - id: '1647792691975867'
+    name: Haithm Haggag
+    type: LIKE
+  - id: '10215171985635828'
+    name: Muhammad El-Attar
+    type: LIKE
+  - id: '10155173051963199'
+    name: Pola Ashraf
+    type: LIKE
+  - id: '10159825719935065'
+    name: Shenouda Bertel
+    type: LIKE
+  - id: '511979489186653'
+    name: Mhmd S. Rohyme
+    type: LIKE
+  - id: '1114256765388017'
+    name: Ahmed Mostafa
+    type: LIKE
+  - id: '10155856743191578'
+    name: Mo Hemmat
+    type: LIKE
+  - id: '10160119042585037'
+    name: Ahmed Saad ElMaghraby
+    type: LIKE
+  - id: '2128735550486765'
+    name: Eslam Karim
+    type: LIKE
+  - id: '10215482677129679'
+    name: Ahmed Adel Radwan
+    type: LIKE
+  - id: '930270413788059'
+    name: Anas Alaa
+    type: LIKE
+  - id: '1847421335299420'
+    name: Ahmed Sabry
+    type: LIKE
+  - id: '2101901136700019'
+    name: Islam Mansour
+    type: LIKE
+  - id: '10214110497771678'
+    name: Mohamed Abd Elhalim
+    type: LIKE
+  - id: '10156266511868081'
+    name: Ahmed Zain Mohammed
+    type: LIKE
+  - id: '871016873079772'
+    name: Marwan Ahmed
+    type: LIKE
+  - id: '1823693027641765'
+    name: Mostafa Saeed
+    type: LIKE
+  - id: '1739934556028600'
+    name: Ali Shaltout
+    type: LIKE
+  - id: '577404579261152'
+    name: Ahmed Kamal
+    type: LIKE
+  - id: '1001540639994413'
+    name: Mohamed Mabrouk
+    type: LIKE
+  - id: '1830940156918303'
+    name: Mouhamed Essam
+    type: LIKE
+  - id: '1999765416908747'
+    name: Ahmed Khalifa
+    type: LIKE
+  - id: '1793141574064005'
+    name: Ebrahim Elsafadi
+    type: LIKE
+  - id: '1531397220262637'
+    name: Omar Ehab
+    type: LIKE
+  - id: '1811551685586388'
+    name: Ahmed Mudhar
+    type: LIKE
+  - id: '1208358265962928'
+    name: Muhammad Tarek
+    type: LIKE
+  - id: '2126408350969782'
+    name: Mahmoud Hesham
+    type: LIKE
+  - id: '10215683610466930'
+    name: Fady George
+    type: LIKE
+  - id: '10156006112484705'
+    name: Ahmed Laiali
+    type: LIKE
+  - id: '10212603354051798'
+    name: Abdelrahman Gamal
+    type: LIKE
+  - id: '10213394268464462'
+    name: Mohamed A. Alqrwash
+    type: LIKE
+  - id: '10210396048208856'
+    name: Ahmed Galal
+    type: LIKE
+  - id: '1583404941737258'
+    name: Omar Abo Foul
+    type: LIKE
+  - id: '10159911272580223'
+    name: Ibrahim Adel
+    type: LIKE
+  - id: '10160027316145066'
+    name: Mohamed Mohum
+    type: LIKE
+  - id: '2096358110650589'
+    name: Ahmed Khaled
+    type: LIKE
+  - id: '1570791413017790'
+    name: Eman Essam
+    type: LIKE
+  paging:
+    cursors:
+      before: TVRBd01ERXdORFV5TURrd05EazVPakUxTVRrMU5ESTVOak02TWpVME1EazJNVFl4TXc9PQZDZD
+      after: TVRBd01EQXlOakE0TkRBNE5URTBPakUxTVRrek16TTNORFk2TWpVME1EazJNVFl4TXc9PQZDZD
+comments:
+  data:
+  - created_time: '2018-02-22T21:10:22+0000'
+    from:
+      name: Ahmed Khaled
+      id: '2096358110650589'
+    message: |-
+      what is the name of the repo ?
+      i think you missed the link and attached a link to your github account
+    id: '1761759933863707'
+  - created_time: '2018-02-22T21:12:12+0000'
+    from:
+      name: Ahmed Adel
+      id: '10155945688506276'
+    message: |-
+      Ahmed Khaled yes you are right am sorry for that :D
+      I just updated my post, please check attached link in the post, and my repo name is : socialmediasignup
+      https://github.com/ahmed-adel-said/socialmediasignup
+    id: '1761761560530211'
+  - created_time: '2018-02-23T18:24:18+0000'
+    from:
+      name: Mhmd S. Rohyme
+      id: '511979489186653'
+    message: How about making customization for the signup buttons something like
+      setFbSignUpButton(fbButton)
+    id: '1762651913774509'
+  - created_time: '2018-02-23T18:58:11+0000'
+    from:
+      name: Abdelrahman Osama
+      id: '10215806552501327'
+    message: Mark Ragaee
+    id: '1762678023771898'
+  - created_time: '2018-02-23T21:28:40+0000'
+    from:
+      name: Mina Alfy Shaker
+      id: '2056553274563512'
+    message: Good work ya ahmed
+    id: '1762786387094395'
+  - created_time: '2018-02-24T01:36:45+0000'
+    from:
+      name: Pola Ashraf
+      id: '10155173051963199'
+    message: I suggest a wrapper or integration  for React Native.
+    id: '1762949037078130'
+  - created_time: '2018-02-24T12:53:51+0000'
+    from:
+      name: Mhmd Abdel-tawab
+      id: '10155051418251360'
+    message: Amr Elwany ?!
+    id: '1763411593698541'
+  paging:
+    cursors:
+      before: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMyTVRjMU9Ua3pNemcyTXpjd056b3hOVEU1TXpNek9ESXoZD
+      after: WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMyTXpReE1UVTVNelk1T0RVME1Ub3hOVEU1TkRjMk9ETXkZD
